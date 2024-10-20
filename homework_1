@@ -1,1 +1,3 @@
-print("Привет,мир!")
+homework_number = 12
+hours = 1.5
+corse_name = 'Python'
