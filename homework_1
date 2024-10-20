@@ -1,3 +1,5 @@
 homework_number = 12
 hours = 1.5
 corse_name = 'Python'
+middle = hours/homework_number
+print('Курс:', corse_name,', всего задач:',homework_number,',среднее время выполнения ', middle)
